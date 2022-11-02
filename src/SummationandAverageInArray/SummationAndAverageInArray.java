@@ -10,7 +10,9 @@ import java.util.Scanner;
  *
  * @author nayeem
  */
-public class SummationAndAverageInArray { public static void main(String[]args)
+public class SummationAndAverageInArray 
+{ 
+    public static void main(String[]args)
     {
         
      //variable declaration area
